@@ -2,8 +2,8 @@
 ###### Created with HTML5 and CSS3 in Tecnolochicas Pro 💌
 
 ## ÍNDICE
-* [Intro](https://github.com/DaniaGarciaM/GoogleClon/edit/main/README.md#-intro)
-* [What did I build?](https://github.com/DaniaGarciaM/GoogleClon/README.md#-intro)
+* [Intro](https://github.com/DaniaGarciaM/GoogleClon#-intro)
+* [What did I build?](https://github.com/DaniaGarciaM/GoogleClon#-)
 * [Objectives of the project]()
 * [Link to the demo!!]()
 
