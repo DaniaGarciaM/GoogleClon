@@ -21,3 +21,5 @@ The project is focused on the construction of the Google interface, paying atten
 
 ## 💫 Link to the demo!!
 Google Clon [https://daniagarciam.github.io/GoogleClon/#]
+
+![image](https://user-images.githubusercontent.com/111198402/234746783-063a9c19-ab9e-4351-a29c-9685d187743b.png)
