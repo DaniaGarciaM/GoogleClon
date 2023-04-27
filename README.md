@@ -19,5 +19,5 @@ The project is focused on the construction of the Google interface, paying atten
 
 * Main: Container section for the main elements more important of the interface: logo, search bar, icons, and buttons.
 
-## Link to the demo!!
-https://daniagarciam.github.io/GoogleClon/#
+## 💫 Link to the demo!!
+Google Clon [https://daniagarciam.github.io/GoogleClon/#]
