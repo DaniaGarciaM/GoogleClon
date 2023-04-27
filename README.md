@@ -3,7 +3,7 @@
 
 ## ÍNDICE
 * [Intro](https://github.com/DaniaGarciaM/GoogleClon#-intro)
-* [What did I build?](https://github.com/DaniaGarciaM/GoogleClon#-)
+* [What did I build?](https://github.com/DaniaGarciaM/GoogleClon/blob/main/README.md#%EF%B8%8F-what-did-i-build)
 * [Objectives of the project]()
 * [Link to the demo!!]()
 
